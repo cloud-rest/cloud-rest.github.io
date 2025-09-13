@@ -1,6 +1,6 @@
 
 
-[![cloud-rest](https://img.shields.io/badge/cloud-rest-github-blue?logo=github)](https://github.com/cloud-rest)
+[![GitHub Profile](https://img.shields.io/badge/Profile-cloud--rest-blue?logo=github)](https://github.com/cloud-rest)
 
 #### Contact
 
