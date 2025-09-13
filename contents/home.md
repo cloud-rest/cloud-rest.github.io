@@ -11,5 +11,5 @@ M.E., Statistics, Yanshan University, 2022—2025.\
 B.E., Statistics, Beijing Normal University, 2017—2021.
 
 #### Research Interests
-Mathematical Statistics, Causal Inference，Machine Learning.
+Mathematical Statistics, Causal Inference, Machine Learning.
 
